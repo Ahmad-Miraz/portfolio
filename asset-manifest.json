@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5a465378.css",
+    "main.css": "/portfolio/static/css/main.cf86707c.css",
     "main.js": "/portfolio/static/js/main.0f370d9b.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/travel.jpg": "/portfolio/static/media/travel.6d059c67f10ce9d0c395.jpg",
@@ -14,12 +14,12 @@
     "static/media/Miraj_hossain_cv.pdf": "/portfolio/static/media/Miraj_hossain_cv.48e6d26680fde745f8e0.pdf",
     "static/media/miraj.jpg": "/portfolio/static/media/miraj.7b20367383a0e9647162.jpg",
     "index.html": "/portfolio/index.html",
-    "main.5a465378.css.map": "/portfolio/static/css/main.5a465378.css.map",
+    "main.cf86707c.css.map": "/portfolio/static/css/main.cf86707c.css.map",
     "main.0f370d9b.js.map": "/portfolio/static/js/main.0f370d9b.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a465378.css",
+    "static/css/main.cf86707c.css",
     "static/js/main.0f370d9b.js"
   ]
 }

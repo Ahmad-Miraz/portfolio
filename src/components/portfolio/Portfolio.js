@@ -13,8 +13,8 @@ const Portfolio = () => {
       id:1,
       image:img1,
       title:'My Portfolio Website using React,CSS3',
-      github:'https://github.com/Ahmad-Miraz/myPortfolio.git',
-      demo:'https://mirajhossain.github.io'
+      github:'https://github.com/Ahmad-Miraz/portfolio.git',
+      demo:'https://ahmad-miraz.github.io/portfolio/'
     },
     {
       id:2,

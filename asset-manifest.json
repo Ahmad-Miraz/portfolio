@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.cf9af856.css",
-    "main.js": "/portfolio/static/js/main.146a16e9.js",
+    "main.css": "/portfolio/static/css/main.5a465378.css",
+    "main.js": "/portfolio/static/js/main.0f370d9b.js",
     "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
     "static/media/travel.jpg": "/portfolio/static/media/travel.6d059c67f10ce9d0c395.jpg",
     "static/media/newsMonkey.jpg": "/portfolio/static/media/newsMonkey.0596c4b5e56f831a57c5.jpg",
@@ -9,17 +9,17 @@
     "static/media/lightCode.jpg": "/portfolio/static/media/lightCode.92da11c7d2236bcf8cb2.jpg",
     "static/media/bgTexture.jpg": "/portfolio/static/media/bgTexture.9e883dad374483f2cdcf.jpg",
     "static/media/text.jpg": "/portfolio/static/media/text.fd67f4a2fa416180a662.jpg",
-    "static/media/Miraj_hossain_cv.pdf": "/portfolio/static/media/Miraj_hossain_cv.2575cedda9660af840a5.pdf",
     "static/media/portfolio.jpg": "/portfolio/static/media/portfolio.42c7af6e75190d85e8d8.jpg",
     "static/media/fullPic.png": "/portfolio/static/media/fullPic.d3ec056fbf740a10835c.png",
+    "static/media/Miraj_hossain_cv.pdf": "/portfolio/static/media/Miraj_hossain_cv.48e6d26680fde745f8e0.pdf",
     "static/media/miraj.jpg": "/portfolio/static/media/miraj.7b20367383a0e9647162.jpg",
     "index.html": "/portfolio/index.html",
-    "main.cf9af856.css.map": "/portfolio/static/css/main.cf9af856.css.map",
-    "main.146a16e9.js.map": "/portfolio/static/js/main.146a16e9.js.map",
+    "main.5a465378.css.map": "/portfolio/static/css/main.5a465378.css.map",
+    "main.0f370d9b.js.map": "/portfolio/static/js/main.0f370d9b.js.map",
     "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.cf9af856.css",
-    "static/js/main.146a16e9.js"
+    "static/css/main.5a465378.css",
+    "static/js/main.0f370d9b.js"
   ]
 }

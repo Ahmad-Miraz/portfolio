@@ -1,0 +1,81 @@
+.services__container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 2rem;
+}
+
+.services__container{
+    background: var(--color-bg-variant);
+    padding: 2.4rem 1.5rem;
+    border-radius: 2rem;
+    border:1px solid transparent;
+    transition: var(--transition);
+}
+
+.services__container:hover{
+    background: transparent;
+    border-color: var(--color-primary-variant);
+    cursor: default;
+}
+.container__institute{
+    display: flex;
+    flex-direction: row;
+}
+
+.container__institute-icon{
+    color: var(--color-primary);
+    height: 160px;
+    width: 180px;
+    margin-top: -40px;
+    padding-right: 10px;
+}
+
+article >div h3{
+    color: var(--color-primary);
+}
+
+small,p{
+    color: var(--color-light);
+    font-size: 0.75rem;
+}
+p{
+    text-align: justify;
+    margin-top: 20px;
+    padding-right: 50px;
+}
+
+/* =============Media queries(Medium Device)========= */
+@media screen and (max-width:1024px) {
+    .services__container{
+        grid-template-columns: 1fr;
+        padding: 2.4rem 1.5rem;
+    }
+    .services__container >div{
+        width: 80%;
+        padding: 2rem;
+        margin: 0 auto;
+    
+    }
+
+    .experience__content{
+        padding: 1rem;
+    }
+}
+
+/* =============Media queries(Short Device)========= */
+@media screen and (max-width:600px) {
+    .services__container{
+        gap: 1rem;
+
+    }
+    .services__container>div{
+        width: 100%;
+        padding: 2rem 1rem;
+    }
+    section{
+        height: 180vh;
+    }
+    .container__institute{
+        padding-left: -30px;
+    }
+}
